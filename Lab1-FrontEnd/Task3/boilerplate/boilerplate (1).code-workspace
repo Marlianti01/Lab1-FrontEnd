@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../boilerplate (1)"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Task3"
+	}
+}

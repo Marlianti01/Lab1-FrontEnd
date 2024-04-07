@@ -1,0 +1,93 @@
+.rounded-circle {
+    width: 60%; /* Adjust the width as needed */
+    height: 60%; /* Adjust the height as needed */
+  }
+
+
+  
+.footer{
+    text-align: center;
+    background-color: aqua;
+    
+
+}
+
+@media (max-width: 767px) {
+    .col-md-6 img {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+  h2,h3,p{
+    justify-content: center;
+    text-align: center;
+  }
+
+  .header{
+    background-image: url('../img/milkbg.jpg' );
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding: 50px;
+    height: 400px;
+    margin-bottom: 100px;
+  }
+
+  .overlay{
+    min-height: 50%;
+    min-width:50%;
+    position: relative;
+    left: 50%;
+    top: 70%;
+    transform:-50%,50%;
+    left:0;
+    top:0;
+    background: rgba(0,0,0,0.6);
+}
+
+.overlay h1, p{
+    color:white;
+}
+
+.new{
+    font-weight: bold;
+    margin-right: 50px;
+    
+    padding: 3px;
+    background-color: red;
+    display:inline-block;
+    text-align: center;
+}
+
+.about-us{
+    text-align: justify;
+    
+}
+
+section{
+    background-color: #f0f0f0;
+}
+
+.cmonster{
+    max-width:100%;
+    height:auto;
+}
+
+@media (max-width: 991px) {
+    .about-us img{
+        height: auto; 
+    }
+}
+
+.cookies{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+
+
+
+
+  
+  
